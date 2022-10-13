@@ -1,0 +1,16 @@
+C:\Users\luongnam_laptop\source\repos\Barcode_Scanner\Barcode_Scanner\bin\Debug\netcoreapp3.1\Barcode_Scanner.exe
+C:\Users\luongnam_laptop\source\repos\Barcode_Scanner\Barcode_Scanner\bin\Debug\netcoreapp3.1\Barcode_Scanner.deps.json
+C:\Users\luongnam_laptop\source\repos\Barcode_Scanner\Barcode_Scanner\bin\Debug\netcoreapp3.1\Barcode_Scanner.runtimeconfig.json
+C:\Users\luongnam_laptop\source\repos\Barcode_Scanner\Barcode_Scanner\bin\Debug\netcoreapp3.1\Barcode_Scanner.runtimeconfig.dev.json
+C:\Users\luongnam_laptop\source\repos\Barcode_Scanner\Barcode_Scanner\bin\Debug\netcoreapp3.1\Barcode_Scanner.dll
+C:\Users\luongnam_laptop\source\repos\Barcode_Scanner\Barcode_Scanner\bin\Debug\netcoreapp3.1\Barcode_Scanner.pdb
+C:\Users\luongnam_laptop\source\repos\Barcode_Scanner\Barcode_Scanner\obj\Debug\netcoreapp3.1\Barcode_Scanner.csproj.AssemblyReference.cache
+C:\Users\luongnam_laptop\source\repos\Barcode_Scanner\Barcode_Scanner\obj\Debug\netcoreapp3.1\Barcode_Scanner.Form1.resources
+C:\Users\luongnam_laptop\source\repos\Barcode_Scanner\Barcode_Scanner\obj\Debug\netcoreapp3.1\Barcode_Scanner.csproj.GenerateResource.cache
+C:\Users\luongnam_laptop\source\repos\Barcode_Scanner\Barcode_Scanner\obj\Debug\netcoreapp3.1\Barcode_Scanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luongnam_laptop\source\repos\Barcode_Scanner\Barcode_Scanner\obj\Debug\netcoreapp3.1\Barcode_Scanner.AssemblyInfoInputs.cache
+C:\Users\luongnam_laptop\source\repos\Barcode_Scanner\Barcode_Scanner\obj\Debug\netcoreapp3.1\Barcode_Scanner.AssemblyInfo.cs
+C:\Users\luongnam_laptop\source\repos\Barcode_Scanner\Barcode_Scanner\obj\Debug\netcoreapp3.1\Barcode_Scanner.csproj.CoreCompileInputs.cache
+C:\Users\luongnam_laptop\source\repos\Barcode_Scanner\Barcode_Scanner\obj\Debug\netcoreapp3.1\Barcode_Scanner.dll
+C:\Users\luongnam_laptop\source\repos\Barcode_Scanner\Barcode_Scanner\obj\Debug\netcoreapp3.1\Barcode_Scanner.pdb
+C:\Users\luongnam_laptop\source\repos\Barcode_Scanner\Barcode_Scanner\obj\Debug\netcoreapp3.1\Barcode_Scanner.genruntimeconfig.cache
